@@ -1,6 +1,5 @@
 ﻿namespace GoCD.Powershell
 {
-
     public interface Command { }
 
 
